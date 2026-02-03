@@ -6,7 +6,7 @@
 4. Commit and push
 5. Send link in comment on the annoucement video
 
-See formal rules at https://stm32world.com/
+See formal rules at [https://stm32world.com/](https://stm32world.com/wiki/STM32_Bare_Metal_Challenge)
 
 Submit comment before Mar. 1st, 2026
 
