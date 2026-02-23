@@ -1,6 +1,6 @@
 ### Codegolfed blinky for a challenge by Lars Thomsen from stm32world 
 
-Final size : 20b
+Final size : 18b
 
 To build write
 ```shell
