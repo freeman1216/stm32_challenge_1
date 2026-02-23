@@ -18,7 +18,6 @@ _reset:
     ldr.n r0, addr
     /*third bit in fc is set so we can just store the address as is to enable gpio*/
     str.n r0, [r0,#0x34]
-    /*to get bit 26 set*/
 addr:
     /*little endian so this is FC 37 in memory*/
     /*wraps and becomes negative which we use to construct a mask to toggle the bit*/
